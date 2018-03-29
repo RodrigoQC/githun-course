@@ -8,4 +8,4 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é valido =)
 
 [Meu FaceBook](https://www.facebook.com/rodrigo.q.decastro)
 
-outros cursos em :[wilian justem cursos](http://willianjusten.teachable.com)
+outros cursos em :[wilian justen cursos](http://willianjusten.teachable.com)

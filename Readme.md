@@ -49,6 +49,10 @@ git show HASH_DO_COMMIT
 mostra as auterações feitas naquele commit
 
 -------------------------------------------------
+git push
+envia os arquivos adicionados/atulizados para o repositorio remoto
+
+-------------------------------------------------
 
 git diff
 mostra o que foi mudado dentro dos arquivos
